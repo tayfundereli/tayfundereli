@@ -11,9 +11,9 @@
   <p align="center">
     Hi, Tayfun DERELİ, Quality Assurance Tester  from Turkey
     <br>
-    <!--<br>
+    <br>
     🔬 I'm currently studying in Insider
-    <br> -->
+    <br> 
     🎓 I graduated from Kastamonu University
     <br>
     💻 I love writing code and learn anythings about it
@@ -27,7 +27,7 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
   <p align="center">
-    <code><img title="C#" height="25" src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png"></code>
+    <code><img title="C#" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
     <code><img title="Python" height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
     <code><img title="Javascript" height="25" src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png"></code>
     <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>

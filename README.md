@@ -12,7 +12,7 @@
     Hi, Tayfun DERELİ, Quality Assurance Tester  from Turkey
     <br>
     <br>
-    🔬 I'm currently studying in Insider
+    🔬 I'm currently working at Insider
     <br> 
     🎓 I graduated from Kastamonu University
     <br>

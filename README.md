@@ -9,11 +9,9 @@
   
   <br>
   <p align="center">
-    Hi, Tayfun DERELİ, Quality Assurance Tester  from Turkey
+    Hi, Tayfun DERELİ, Quality Assurance Engineer from Turkey
     <br>
     <br>
-    🔬 I'm currently working at Insider
-    <br> 
     🎓 I graduated from Kastamonu University
     <br>
     💻 I love writing code and learn anythings about it
